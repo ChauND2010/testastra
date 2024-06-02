@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Downloads/Compressed/astra/template-parts"
+		},
+		{
+			"path": "../../../Downloads/Compressed/astra/inc"
+		},
+		{
+			"path": "../../../Downloads/Compressed/astra/languages"
+		},
+		{
+			"path": "../../../Downloads/Compressed/astra/admin"
+		},
+		{
+			"path": "../../../Downloads/Compressed/astra/assets"
+		}
+	],
+	"settings": {}
+}
